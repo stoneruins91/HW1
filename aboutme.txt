@@ -1,0 +1,12 @@
+Your name: Phuoc Tang Hong
+Your student ID: 013587197
+Your major: Computer Science
+Your preferred email address: phuoc.tang@sjsu.edu 
+Check one: [.] Undergraduate, [ ] Graduate, [ ] Open university 
+Repeating the class? [ ] Yes, [.] No
+Place and semester where you took a programming course in Java: Winter 2017 De Anza
+Course number and grade received: A+
+Place and semester where you took a course in data structures: Fall 2017 De Anza
+Course number and grade received: C
+Time it took you to answer the two questions below: 3hrs
+Did you ask anyone for help? [ ] Yes, [.] No
